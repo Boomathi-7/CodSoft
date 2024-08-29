@@ -25,10 +25,8 @@ def deleteTask():
   except:
     print("Invalid input. Please try again.")
 
-
-if _name_ == "_main_":
-  print("Welcome to TO-DO LIST App")
-  while True:
+print("Welcome to TO-DO LIST App")
+while True:
     print("\n")
     print("Please select one of the following options")
     print("------------------------------------------")
